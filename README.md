@@ -1,1 +1,3 @@
-# ssh_snippets
+# SSH
+
+~/.ssh/config
